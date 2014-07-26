@@ -18,7 +18,7 @@ run\_analysis.r does the following:
 
 6 - extracts the mean and standard deviation measurements from the test and train data files (x\_test, x\_train)
 
-  criteria: "mean" or "std" is contained in the column name for the data
+      criteria: "mean" or "std" is contained in the column name for the data
 
 7 - binds activity type and subject id to measurement data
 
